@@ -1,2 +1,4 @@
 # aiz
-bit.Connect2021
+バックエンド・API側のコード
+
+Azure App URL: https://service-tech.azurewebsites.net/
